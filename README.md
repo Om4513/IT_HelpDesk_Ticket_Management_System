@@ -117,7 +117,7 @@ Then open your browser:
 
 http://localhost:8501
 
-🔐 Security Implementation
+🔐 Security Implementation:
 
 Passwords are securely hashed using bcrypt
 
@@ -127,7 +127,7 @@ Role-based Access Control (Admin / Employee)
 
 All actions recorded in audit_log.txt
 
-📊 Sample Output
+📊 Sample Output:
 
 Sample generated CSV reports are stored inside:
 
@@ -136,7 +136,7 @@ sample_outputs/ sample_tickets_report.CSV
 
 These demonstrate exported ticket data.
 
-🚀 Key Features Implemented
+🚀 Key Features Implemented:
 
 Secure Authentication System
 
@@ -152,7 +152,7 @@ CLI + Modern Web Interface
 
 GitHub Project Structure with Proper .gitignore
 
-🎯 Future Enhancements
+🎯 Future Enhancements:
 
 Cloud Deployment (AWS / Azure)
 
@@ -164,7 +164,7 @@ REST API Integration
 
 Docker Containerization
 
-👨‍💻 Author
+👨‍💻 Author:
 
 Om Babar
 
@@ -172,7 +172,7 @@ IT Support / Cloud Enthusiast / Cybersecurity Analyst
 
 Python Developer
 
-⭐ Conclusion
+⭐ Conclusion:
 
 This project demonstrates the practical implementation of:
 
