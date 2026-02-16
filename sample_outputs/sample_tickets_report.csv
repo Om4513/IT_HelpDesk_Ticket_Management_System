@@ -1,1 +1,10 @@
-
+Ticket ID,User ID,Category,Description,Priority,Status
+1,1,Network,5G Network not reached in this area.,High,Closed
+2,2,Software,Software not tested properly.,Medium,In Progress
+3,3,Hardware,"Monitor get scratched, do clean the screen once.",Low,In Progress
+4,5,Software,Design of Backend part not further add extraa part in the Software Update backend part.,High,Open
+5,7,Hardware,Mouse hang up.,Medium,Closed
+6,8,Software,Functionalities of software not worked properly.,High,Open
+7,9,Network,Network Bandwidth is low.,Low,In Progress
+8,11,Software,Software not correctly interfaced with backend part.,High,Open
+9,3,Hardware,CPU not worked correctly.,Low,In Progress
