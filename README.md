@@ -54,7 +54,7 @@ IT_HelpDesk_Ticket_Management_System/
 
 ├── check_sqlite.py       # DB test connection
 
-├── sample_outputs/       # Sample generated reports
+├── sample_outputs/ sample_tickets_report.csv       # Sample generated reports
 
 ├── .gitignore
 
