@@ -101,7 +101,7 @@ Export CSV
 
 Admin Controls:
 
-🌐 Run Web Version (Streamlit)
+🌐 Run Web Version (Streamlit):
 
 ⚠ Do NOT run:
 
