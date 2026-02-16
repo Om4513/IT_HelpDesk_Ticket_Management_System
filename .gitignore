@@ -1,0 +1,15 @@
+# Ignore IDE files
+.idea/
+
+# Ignore database files
+database.db
+
+# Ignore logs
+audit_log.txt
+
+# Ignore generated reports
+tickets_report.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
